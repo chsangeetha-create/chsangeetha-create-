@@ -15,7 +15,7 @@ sangeetha = {
     "name"       : "Sangeetha Chakali",
     "location"   : "Hyderabad, India",
     "education"  : [
-                     "PG Diploma - Microelectronics, Newcastle University, UK",
+                     "PG - Microelectronics, Newcastle University, UK",
                      "B.Tech - ECE, JNTUH (2022)"
                    ],
     "experience" : "VLSI Design Engineer @ Datapoint Info Solutions",
@@ -93,7 +93,7 @@ sangeetha = {
 
 ## Experience
 
-**VLSI Design Engineer** @ Datapoint Info Solutions (Jul 2022 - Jun 2023)
+**VLSI Design Engineer** @ Datapoint Info Solutions (Aug 2022 - Aug 2023)
 
 - Managed EDA tools and workstation environments on Linux and Windows
 - Handled user provisioning, access permissions, and IT asset inventory
@@ -106,7 +106,7 @@ sangeetha = {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-chsangeetha220@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chsangeetha220@gmail.com)
+[![Email](https://img.shields.io/badge/Email-chsangeetha330@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chsangeetha330@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Hyderabad%20India-1A4A8A?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Hyderabad,India)
 
 </div>
